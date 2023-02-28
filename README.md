@@ -1,0 +1,1 @@
+just a little project to make a website with threejs because i saw a tiktok about it and want to use it for my personal website
